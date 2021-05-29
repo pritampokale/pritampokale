@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pritampokle
+- 👋 Hi, I’m @pritampokale
 - 👀 A lazy person being a programmer <br>or a coder who changes everything and makes <br>life easy as they want. <br><b>( Software developer , App Developer , Website Designer )</b>
 
 <!---
